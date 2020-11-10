@@ -2,13 +2,14 @@
 #N.B: Blacklist don't needed in other sub-gitignore
 # Ignore everything	(rules = 1)
 *
-
 #----------- WHITELIST -----------
 #N.B: Other gitignore must implement only the whitelist
 # Don't Ignore those folders and files
-
 #root	(rules = 3)
+
 !.gitignore
 !README.md
 !image-classification/
 !image-classification/*.ipynb
+
+
