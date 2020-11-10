@@ -11,4 +11,4 @@
 !.gitignore
 !README.md
 !image-classification/
-!image-classificattion/*.ipynb
+!image-classification/*.ipynb
