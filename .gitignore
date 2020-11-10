@@ -11,4 +11,4 @@
 !.gitignore
 !README.md
 !image-classification/
-!image-classificattion/mask-classification.ipynb
+!image-classificattion/*.ipynb
