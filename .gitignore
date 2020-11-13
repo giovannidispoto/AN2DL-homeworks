@@ -13,9 +13,5 @@
 !image-classification/*.ipynb
 !image-classification/*.csv
 
-#Checkpoints
-!image-classification/Checkpoints/*
-!image-classification/Checkpoints/model_from_scratch/*
-!image-classification/Checkpoints/TL_VGG16/*
 
 
