@@ -12,4 +12,9 @@
 !image-classification/
 !image-classification/*.ipynb
 
+#Checkpoints
+!image-classification/Checkpoints/*
+
+#Results
+!image_classification/*.csv
 
