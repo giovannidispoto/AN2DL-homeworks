@@ -12,4 +12,4 @@ We have created a CNN that discriminate between images depending on the followin
 <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3311561%2Fef05c005aa712dae1fd71351f2c5b3f7%2F10405.jpg?generation=1604835094952941&alt=media"  width="300"/>
 <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3311561%2F2a987afcb01c2f48e296c30924ad51a7%2F11172.jpg?generation=1604835052572395&alt=media"  width="300"/>
 
-There are 2 models: One based on Trasfer Learning on VGG19 model trained on ImageNet Dataset and a model trained from scratch, reaching maximum accuracy on test set of 0.895
+There are 2 models: One based on Transfer Learning on VGG19 model trained on ImageNet Dataset and a model trained from scratch, reaching maximum accuracy on test set of 0.895
