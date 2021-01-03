@@ -34,11 +34,11 @@ There a 3 model in notebooks:
 * Model based on U-Net
 * Model based on FPN
 
-The first model trained on <b>Tiled Images</b> of 224x224 give us a quite good result with global val_IoU = 0.49 over the 4 dataset available.
+The first model trained on <b>Tiled Images</b> of 224x224 give us a quite good result with val_meanIoU = 0.74 on Validation set and global_IoU = 0.49 on test set over the 4 dataset available.
 
 <figure>
 <img src="image-segmentation/res/prediction_bipbip_crop.jpg" width="600"/>
-<figcaption>Example of Validation set prediction. First Mask is the expected, the second one is the predicted</figcaption>
+<figcaption> Example of prediction on Validation Set. First Mask is the expected, the second one is the predicted </figcaption>
 </figure>
 
 
