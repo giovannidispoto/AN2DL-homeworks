@@ -1,4 +1,4 @@
-# Artificial Neural Network and Deep Learning Homeworks
+# Artificial Neural Networks and Deep Learning Homeworks
 
 ### Image classification
 
