@@ -24,7 +24,7 @@ In this context, the agricultural sector is going under a process of revolution 
 
 Automatic crop and weed segmentation can be a driver of innovations to optimize the agricultural processes. Indeed, automatic weed detection can be exploited by a ground robot for mechanical weeding. Thus, pesticides could even be completely avoided. By joining this challenge you can contribute to advance the application of digital technologies in agriculture. 
 <figure>
-<img src="https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png" caption="Prova" width="200"/>
+<img src="https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png" caption="Prova" width="400"/>
 <figcaption>UNet Architecture</figcaption>
 </figure>
 

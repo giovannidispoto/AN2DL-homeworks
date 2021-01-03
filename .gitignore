@@ -15,6 +15,7 @@
 !image-segmentation/
 !image-segmentation/*.ipynb
 !image-segmentation/*.pdf
+!image-segmentation/res/
 !image-segmentation/res/*
 
 
