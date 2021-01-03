@@ -12,6 +12,10 @@
 !image-classification/
 !image-classification/*.ipynb
 !image-classification/*.pdf
+!image-segmentation/
+!image-segmentation/*.ipynb
+!image-segmentation/*.pdf
+!image-segmentation/res/
 
 
 
