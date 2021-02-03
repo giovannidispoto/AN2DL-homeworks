@@ -17,6 +17,10 @@
 !image-segmentation/*.pdf
 !image-segmentation/res/
 !image-segmentation/res/*
+!visual-question-answering/
+!visual-question-answering/*.ipynb
+!visual-question-answering/*.pdf
+
 
 
 
